@@ -1,0 +1,29 @@
+* {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif
+}
+
+body {
+	background-color: #ABE0D9;
+}
+
+h1 {
+	color: rgba(060, 255, 123, .2);
+	font-family: arial,sans-serif;
+
+}
+
+#nav {
+
+	width: 160px;
+}
+
+h6 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: white;	
+	background: url(imgs/pat1.png);
+}
+
+li {
+	font-size: 14px;
+
+}
